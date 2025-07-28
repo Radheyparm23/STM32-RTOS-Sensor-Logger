@@ -75,3 +75,18 @@ This guide explains how to:
 - Copy required `.h` and `.c` files to the correct project folders.
 - Configure include paths and GCC linker settings in STM32CubeIDE.
 - Successfully compile and use the U8g2 library with FreeRTOS and STM32.
+# Working_Videos_and_Images
+
+This folder contains visual demos showcasing the real-time working of the **RTOS-Based Multi-Sensor Data Logger** project.
+
+## 🎬 Demo Videos
+👉 Watch working demo videos in the [`Working_Videos_and_Images`](./Working_Videos_and_Images) folder:
+### 1. - [OLED Display Output](./Working_Videos_and_Images/oled.mp4)
+- Shows the live sensor values (temperature, humidity, soil moisture) rendered using the u8g2 graphics library on a 1.3” SH1106 OLED screen.
+
+### 2. - [Terminal + Hardware View](./Working_Videos_and_Images/Terminal+Hardware.mp4)
+- Shows UART output on serial terminal and physical hardware in operation, including LED feedback during DHT11 initialization and task scheduling under FreeRTOS.
+
+These videos provide both internal (software) and external (hardware) views of the system.
+
+---
