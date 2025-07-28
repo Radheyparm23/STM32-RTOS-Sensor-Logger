@@ -1,5 +1,5 @@
 # STM32 FreeRTOS Multi-Sensor Data Logger
-![OLED Display Output](Source%20codes%20and%20Drivers/oled_display.jpg)
+![OLED Display Output](Source%20code%20and%20Drivers/oled_display.jpg)
 
 This repository contains the full source code and documentation for a real-time, multi-sensor environmental data logger built on an **STM32F767ZI Nucleo** board using the **FreeRTOS** operating system.
 
