@@ -66,3 +66,12 @@ For detailed hardware pin mapping, FreeRTOS task design, CubeMX peripheral setti
 👉 👉 [`System_Setup_Guide.md`](System_Setup_Guide.md)
 
 ---
+## To integrate the **U8g2 OLED graphics library** (used for SH1106 OLED display), follow the detailed instructions provided in:
+
+👉 [U8g2 OLED Driver Setup Guide](Source%20code%20and%20Drivers/u8g2%20drivers/U8g2_Setup_Guide.md)
+
+This guide explains how to:
+
+- Copy required `.h` and `.c` files to the correct project folders.
+- Configure include paths and GCC linker settings in STM32CubeIDE.
+- Successfully compile and use the U8g2 library with FreeRTOS and STM32.
