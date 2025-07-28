@@ -1,0 +1,2 @@
+../Drivers/csrc/u8x8_d_st7302.c:219:17:u8x8_st7302_convert_a0	1
+../Drivers/csrc/u8x8_d_st7302.c:416:9:u8x8_d_st7302_122x250	11

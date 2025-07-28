@@ -1,0 +1,4 @@
+../Drivers/csrc/u8x8_d_st7571.c:84:16:u8x8_d_st7571_generic	8
+../Drivers/csrc/u8x8_d_st7571.c:246:9:u8x8_d_st7571_128x128	4
+../Drivers/csrc/u8x8_d_st7571.c:345:9:u8x8_d_st7571_128x96	4
+../Drivers/csrc/u8x8_d_st7571.c:420:9:u8x8_d_st7571_g12896	4

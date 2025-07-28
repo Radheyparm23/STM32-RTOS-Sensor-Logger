@@ -1,0 +1,4 @@
+../Drivers/csrc/u8x8_d_uc1628.c:71:16:u8x8_d_uc1628_generic	8
+../Drivers/csrc/u8x8_d_uc1628.c:215:9:u8x8_d_uc1628_256x128	6
+../Drivers/csrc/u8x8_d_uc1628.c:317:9:u8x8_d_uc1628_256x32	6
+../Drivers/csrc/u8x8_d_uc1628.c:424:9:u8x8_d_uc1628_128x64	6

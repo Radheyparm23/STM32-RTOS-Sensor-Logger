@@ -1,0 +1,5 @@
+../Drivers/csrc/u8x8_d_ls013b7dh03.c:70:9:u8x8_d_ls013b7dh03_128x128	6
+../Drivers/csrc/u8x8_d_ls013b7dh03.c:149:9:u8x8_d_ls027b7dh01_400x240	2
+../Drivers/csrc/u8x8_d_ls013b7dh03.c:187:9:u8x8_d_ls027b7dh01_m0_400x240	2
+../Drivers/csrc/u8x8_d_ls013b7dh03.c:225:9:u8x8_d_ls013b7dh05_144x168	2
+../Drivers/csrc/u8x8_d_ls013b7dh03.c:264:9:u8x8_d_ls011b7dh03_160x68	2

@@ -1,0 +1,4 @@
+../Core/Src/dht11.c:7:13:delay_us	16	static
+../Core/Src/dht11.c:12:6:DHT11_Init	16	static
+../Core/Src/dht11.c:20:6:DHT11_Wakeup	16	static
+../Core/Src/dht11.c:40:21:DHT11_Read_Data	64	static

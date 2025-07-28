@@ -1,0 +1,7 @@
+../Drivers/csrc/u8x8_d_st7920.c:82:9:u8x8_d_st7920_common	8
+../Drivers/csrc/u8x8_d_st7920.c:185:9:u8x8_d_st7920_128x32	2
+../Drivers/csrc/u8x8_d_st7920.c:228:9:u8x8_d_st7920_144x32	2
+../Drivers/csrc/u8x8_d_st7920.c:270:9:u8x8_d_st7920_160x32	2
+../Drivers/csrc/u8x8_d_st7920.c:312:9:u8x8_d_st7920_192x32	2
+../Drivers/csrc/u8x8_d_st7920.c:353:9:u8x8_d_st7920_128x64	2
+../Drivers/csrc/u8x8_d_st7920.c:395:9:u8x8_d_st7920_256x32	2

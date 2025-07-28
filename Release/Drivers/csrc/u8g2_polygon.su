@@ -1,0 +1,9 @@
+../Drivers/csrc/u8g2_polygon.c:78:16:pge_Next	8	static
+../Drivers/csrc/u8g2_polygon.c:126:16:pg_inc	0	static
+../Drivers/csrc/u8g2_polygon.c:134:16:pg_dec	0	static
+../Drivers/csrc/u8g2_polygon.c:247:13:pg_line_init.constprop	32	static
+../Drivers/csrc/u8g2_polygon.c:142:13:pg_expand_min_y.constprop	16	static
+../Drivers/csrc/u8g2_polygon.c:323:6:u8g2_ClearPolygonXY	0	static
+../Drivers/csrc/u8g2_polygon.c:328:6:u8g2_AddPolygonXY	0	static
+../Drivers/csrc/u8g2_polygon.c:333:6:u8g2_DrawPolygon	32	static
+../Drivers/csrc/u8g2_polygon.c:338:6:u8g2_DrawTriangle	16	static

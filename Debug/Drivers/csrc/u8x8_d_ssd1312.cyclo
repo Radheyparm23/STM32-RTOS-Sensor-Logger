@@ -1,0 +1,4 @@
+../Drivers/csrc/u8x8_d_ssd1312.c:59:16:u8x8_d_ssd1312_generic	7
+../Drivers/csrc/u8x8_d_ssd1312.c:204:9:u8x8_d_ssd1312_128x32	7
+../Drivers/csrc/u8x8_d_ssd1312.c:262:9:u8x8_d_ssd1312_120x32	7
+../Drivers/csrc/u8x8_d_ssd1312.c:323:9:u8x8_d_ssd1312_120x28	7

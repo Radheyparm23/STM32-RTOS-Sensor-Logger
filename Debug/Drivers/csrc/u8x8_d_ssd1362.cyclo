@@ -1,0 +1,6 @@
+../Drivers/csrc/u8x8_d_ssd1362.c:77:17:u8x8_ssd1362_8to32	5
+../Drivers/csrc/u8x8_d_ssd1362.c:108:17:u8x8_ssd1362_8to24	5
+../Drivers/csrc/u8x8_d_ssd1362.c:139:9:u8x8_d_ssd1362_common	8
+../Drivers/csrc/u8x8_d_ssd1362.c:213:9:u8x8_d_ssd1362_common_0_75	9
+../Drivers/csrc/u8x8_d_ssd1362.c:396:9:u8x8_d_ssd1362_256x64	6
+../Drivers/csrc/u8x8_d_ssd1362.c:510:9:u8x8_d_ssd1362_206x36	6

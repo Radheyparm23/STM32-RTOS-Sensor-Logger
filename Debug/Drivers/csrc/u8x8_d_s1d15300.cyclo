@@ -1,0 +1,5 @@
+../Drivers/csrc/u8x8_d_s1d15300.c:78:9:u8x8_d_s1d15300_common	8
+../Drivers/csrc/u8x8_d_s1d15300.c:219:9:u8x8_d_s1d15300_lm6023	7
+../Drivers/csrc/u8x8_d_s1d15300.c:359:9:u8x8_d_s1d15300_97x32	6
+../Drivers/csrc/u8x8_d_s1d15300.c:397:9:u8x8_d_s1d15300_100x32	6
+../Drivers/csrc/u8x8_d_s1d15300.c:434:9:u8x8_d_s1d15300_100x32i	6

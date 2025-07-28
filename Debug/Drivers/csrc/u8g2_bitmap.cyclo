@@ -1,0 +1,7 @@
+../Drivers/csrc/u8g2_bitmap.c:39:6:u8g2_SetBitmapMode	1
+../Drivers/csrc/u8g2_bitmap.c:50:6:u8g2_DrawHorizontalBitmap	6
+../Drivers/csrc/u8g2_bitmap.c:86:6:u8g2_DrawBitmap	3
+../Drivers/csrc/u8g2_bitmap.c:107:6:u8g2_DrawHXBM	10
+../Drivers/csrc/u8g2_bitmap.c:167:6:u8g2_DrawXBM	3
+../Drivers/csrc/u8g2_bitmap.c:192:6:u8g2_DrawHXBMP	10
+../Drivers/csrc/u8g2_bitmap.c:255:6:u8g2_DrawXBMP	3

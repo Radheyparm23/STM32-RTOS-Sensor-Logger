@@ -1,0 +1,5 @@
+../Drivers/csrc/u8x8_d_ssd1362.c:77:17:u8x8_ssd1362_8to32.isra	20	static
+../Drivers/csrc/u8x8_d_ssd1362.c:139:9:u8x8_d_ssd1362_common	40	static
+../Drivers/csrc/u8x8_d_ssd1362.c:213:9:u8x8_d_ssd1362_common_0_75	48	static
+../Drivers/csrc/u8x8_d_ssd1362.c:396:9:u8x8_d_ssd1362_256x64	16	static
+../Drivers/csrc/u8x8_d_ssd1362.c:510:9:u8x8_d_ssd1362_206x36	16	static

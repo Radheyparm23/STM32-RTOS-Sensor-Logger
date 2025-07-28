@@ -1,0 +1,4 @@
+../Drivers/csrc/u8x8_d_pcf8812.c:97:16:u8x8_d_pcf8812_96x65_generic	7
+../Drivers/csrc/u8x8_d_pcf8812.c:175:16:u8x8_d_pcf8812_101x64_generic	7
+../Drivers/csrc/u8x8_d_pcf8812.c:279:9:u8x8_d_pcf8812_96x65	2
+../Drivers/csrc/u8x8_d_pcf8812.c:317:9:u8x8_d_pcf8812_101x64	3

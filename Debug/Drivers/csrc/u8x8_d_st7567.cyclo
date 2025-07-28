@@ -1,0 +1,15 @@
+../Drivers/csrc/u8x8_d_st7567.c:161:9:u8x8_d_st7567_pi_132x64	11
+../Drivers/csrc/u8x8_d_st7567.c:302:9:u8x8_d_st7567_jlx12864	11
+../Drivers/csrc/u8x8_d_st7567.c:465:9:u8x8_d_st7567_122x32	11
+../Drivers/csrc/u8x8_d_st7567.c:629:16:u8x8_d_st7567_enh_dg128064_generic	9
+../Drivers/csrc/u8x8_d_st7567.c:693:9:u8x8_d_st7567_enh_dg128064	4
+../Drivers/csrc/u8x8_d_st7567.c:718:9:u8x8_d_st7567_enh_dg128064i	4
+../Drivers/csrc/u8x8_d_st7567.c:807:9:u8x8_d_st7567_64x32	11
+../Drivers/csrc/u8x8_d_st7567.c:945:9:u8x8_d_st7567_hem6432	11
+../Drivers/csrc/u8x8_d_st7567.c:1090:9:u8x8_d_st7567_os12864	11
+../Drivers/csrc/u8x8_d_st7567.c:1239:9:u8x8_d_st7567_erc13232	11
+../Drivers/csrc/u8x8_d_st7567.c:1382:9:u8x8_d_st7567_erc12864	11
+../Drivers/csrc/u8x8_d_st7567.c:1522:13:st7567_lw12832_clear_ddram	4
+../Drivers/csrc/u8x8_d_st7567.c:1584:9:u8x8_d_st7567_lw12832	11
+../Drivers/csrc/u8x8_d_st7567.c:1662:9:u8x8_d_st7567_yxd12832	1
+../Drivers/csrc/u8x8_d_st7567.c:1733:9:u8x8_d_st7567_96x65	11

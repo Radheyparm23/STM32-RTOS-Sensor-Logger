@@ -1,0 +1,17 @@
+../Core/Src/main.c:135:6:map	1
+../Core/Src/main.c:140:9:u8g2_i2c_byte_cb	7
+../Core/Src/main.c:173:9:u8g2_gpio_and_delay_stm32	6
+../Core/Src/main.c:194:5:_write	1
+../Core/Src/main.c:206:5:main	1
+../Core/Src/main.c:303:6:SystemClock_Config	4
+../Core/Src/main.c:361:13:MX_ADC1_Init	3
+../Core/Src/main.c:413:13:MX_ETH_Init	2
+../Core/Src/main.c:462:13:MX_I2C1_Init	4
+../Core/Src/main.c:510:13:MX_TIM7_Init	3
+../Core/Src/main.c:548:13:MX_USART3_UART_Init	2
+../Core/Src/main.c:583:13:MX_USB_OTG_FS_PCD_Init	2
+../Core/Src/main.c:618:13:MX_GPIO_Init	1
+../Core/Src/main.c:700:6:StartSensorTask	6
+../Core/Src/main.c:767:6:StartDisplayTask	5
+../Core/Src/main.c:848:6:HAL_TIM_PeriodElapsedCallback	2
+../Core/Src/main.c:866:6:Error_Handler	1

@@ -1,0 +1,4 @@
+../Drivers/csrc/u8x8_u8toa.c:40:13:u8x8_u8toap	3
+../Drivers/csrc/u8x8_u8toa.c:61:13:u8x8_u8toa	1
+../Drivers/csrc/u8x8_u8toa.c:68:13:u8x8_s8toa	4
+../Drivers/csrc/u8x8_u8toa.c:93:13:u8x8_u8tox	3

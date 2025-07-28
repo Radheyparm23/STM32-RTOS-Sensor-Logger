@@ -1,0 +1,4 @@
+../Drivers/csrc/u8x8_d_ld7032_60x32.c:136:16:u8x8_d_ld7032_generic	24	static
+../Drivers/csrc/u8x8_d_ld7032_60x32.c:235:9:u8x8_d_ld7032_60x32	8	static
+../Drivers/csrc/u8x8_d_ld7032_60x32.c:285:9:u8x8_d_ld7032_60x32_alt	16	static
+../Drivers/csrc/u8x8_d_ld7032_60x32.c:441:9:u8x8_d_ld7032_128x36	24	static

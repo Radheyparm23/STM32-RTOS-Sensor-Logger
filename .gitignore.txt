@@ -1,0 +1,27 @@
+# STM32CubeIDE files
+/.project
+/.cproject
+/.mxproject
+/.settings/
+
+# Build artifacts
+/Debug/
+/Release/
+/build/
+*.o
+*.elf
+*.bin
+*.hex
+*.map
+*.list
+*.log
+*.su
+*.bak
+
+# Other
+*.launch
+.mx_backup
+
+# STM32CubeMX backup and intermediate files
+*.ioc~
+*.ld

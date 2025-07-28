@@ -1,0 +1,5 @@
+../Drivers/csrc/u8x8_d_ssd1309.c:70:16:u8x8_d_ssd1309_generic	7
+../Drivers/csrc/u8x8_d_ssd1309.c:225:9:u8x8_d_ssd1309_128x64_noname2	7
+../Drivers/csrc/u8x8_d_ssd1309.c:313:9:u8x8_d_ssd1309_128x64_noname0	7
+../Drivers/csrc/u8x8_d_ssd1309.c:347:9:u8x8_d_ssd1309_128x128_noname0	7
+../Drivers/csrc/u8x8_d_ssd1309.c:435:9:u8x8_d_ssd1306_102x64_ea_oleds102	9

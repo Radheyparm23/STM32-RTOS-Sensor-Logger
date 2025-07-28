@@ -1,0 +1,3 @@
+../Drivers/csrc/u8x8_d_ssd1363.c:78:17:u8x8_ssd1363_8to32	19
+../Drivers/csrc/u8x8_d_ssd1363.c:127:9:u8x8_d_ssd1363_common	8
+../Drivers/csrc/u8x8_d_ssd1363.c:314:9:u8x8_d_ssd1363_256x128	6

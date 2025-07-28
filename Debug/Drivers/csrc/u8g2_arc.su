@@ -1,0 +1,2 @@
+../Drivers/csrc/u8g2_arc.c:41:13:u8g2_draw_arc	40	static
+../Drivers/csrc/u8g2_arc.c:92:6:u8g2_DrawArc	40	static

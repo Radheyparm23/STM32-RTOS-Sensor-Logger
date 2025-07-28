@@ -1,0 +1,9 @@
+../Drivers/csrc/u8g2_polygon.c:78:16:pge_Next	3
+../Drivers/csrc/u8g2_polygon.c:126:16:pg_inc	1
+../Drivers/csrc/u8g2_polygon.c:134:16:pg_dec	2
+../Drivers/csrc/u8g2_polygon.c:247:13:pg_line_init.constprop	2
+../Drivers/csrc/u8g2_polygon.c:142:13:pg_expand_min_y.constprop	2
+../Drivers/csrc/u8g2_polygon.c:323:6:u8g2_ClearPolygonXY	1
+../Drivers/csrc/u8g2_polygon.c:328:6:u8g2_AddPolygonXY	2
+../Drivers/csrc/u8g2_polygon.c:333:6:u8g2_DrawPolygon	18
+../Drivers/csrc/u8g2_polygon.c:338:6:u8g2_DrawTriangle	1

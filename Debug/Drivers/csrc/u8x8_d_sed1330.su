@@ -1,0 +1,7 @@
+../Drivers/csrc/u8x8_d_sed1330.c:68:9:u8x8_d_sed1330_common	40	static
+../Drivers/csrc/u8x8_d_sed1330.c:232:9:u8x8_d_sed1330_240x128	24	static
+../Drivers/csrc/u8x8_d_sed1330.c:250:9:u8x8_d_ra8835_nhd_240x128	24	static
+../Drivers/csrc/u8x8_d_sed1330.c:333:9:u8x8_d_sed1330_240x64	56	static
+../Drivers/csrc/u8x8_d_sed1330.c:419:9:u8x8_d_ra8835_320x240	24	static
+../Drivers/csrc/u8x8_d_sed1330.c:506:9:u8x8_d_sed1330_256x128	24	static
+../Drivers/csrc/u8x8_d_sed1330.c:600:9:u8x8_d_sed1330_320x200	24	static

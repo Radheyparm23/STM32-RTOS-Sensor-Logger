@@ -1,0 +1,3 @@
+../Drivers/csrc/u8x8_d_uc1604.c:76:9:u8x8_d_uc1604_common	8
+../Drivers/csrc/u8x8_d_uc1604.c:218:9:u8x8_d_uc1604_jlx12864	4
+../Drivers/csrc/u8x8_d_uc1604.c:311:9:u8x8_d_uc1604_jlx19264	4

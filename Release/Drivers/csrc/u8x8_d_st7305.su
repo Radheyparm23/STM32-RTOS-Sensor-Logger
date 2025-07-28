@@ -1,0 +1,3 @@
+../Drivers/csrc/u8x8_d_st7305.c:87:17:u8x8_st7305_convert_a0	28	static
+../Drivers/csrc/u8x8_d_st7305.c:277:9:u8x8_d_st7305_122x250	32	static
+../Drivers/csrc/u8x8_d_st7305.c:393:9:u8x8_d_st7305_200x200	32	static
