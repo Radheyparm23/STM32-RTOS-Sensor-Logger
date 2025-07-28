@@ -1,19 +1,18 @@
 # 📘 STM32 RTOS-Based Multi-Sensor Data Logger  
-This project uses **STM32F767ZI** MCU with **FreeRTOS**, interfacing a **DHT11 Temperature & Humidity Sensor**, a **Capacitive Soil Moisture Sensor**, and a **SH1106 OLED Display (I2C)**. 
-UART output is provided via Virtual COM (USART3) for serial debugging.
+This project uses **STM32F767ZI** MCU with **FreeRTOS**, interfacing a **DHT11 Temperature & Humidity Sensor**, a **Capacitive Soil Moisture Sensor**, and a **SH1106 OLED Display (I2C)**. UART output is provided via Virtual COM (USART3) for serial debugging.
 ---
 
 ## 🛠️ STM32CubeMX Configuration Summary
 
 ### 🔧 System Core & Clock
 
-| Category         | Setting                | Value                     | Purpose                                                                 |
-|------------------|------------------------|----------------------------|-------------------------------------------------------------------------|
+| Category         | Setting                | Value                     | Purpose                                                                |
+|------------------|------------------------|---------------------------|------------------------------------------------------------------------|
 | RCC              | High Speed Clock (HSE) | Crystal/Ceramic Resonator | Provides stable external clock for precise timing.                     |
-| System Clock Mux |                        | PLLCLK                     | Uses PLL to boost frequency for system clock.                          |
-| HCLK Frequency   |                        | 216 MHz                    | Maximum clock frequency of STM32F767ZI.                                |
-| SYS              | Debug                  | Serial Wire                | Enables SWD debugging via ST-LINK.                                     |
-| Timebase Source  |                        | TIM6                       | Uses TIM6 instead of SysTick for FreeRTOS timing (to avoid conflicts). |
+| System Clock Mux |                        | PLLCLK                    | Uses PLL to boost frequency for system clock.                          |
+| HCLK Frequency   |                        | 216 MHz                   | Maximum clock frequency of STM32F767ZI.                                |
+| SYS              | Debug                  | Serial Wire               | Enables SWD debugging via ST-LINK.                                     |
+| Timebase Source  |                        | TIM6                      | Uses TIM6 instead of SysTick for FreeRTOS timing (to avoid conflicts). |
 
 ---
 
@@ -31,12 +30,12 @@ UART output is provided via Virtual COM (USART3) for serial debugging.
 
 ### 🧵 FreeRTOS Middleware Setup
 
-| Component | Name             | Parameters                            | Description                                                              |
-|-----------|------------------|----------------------------------------|-------------------------------------------------------------------------|
+| Component | Name             | Parameters                             | Description                                                             |
+|-----------|------------------|--------------------------------------- |-------------------------------------------------------------------------|
 | Task      | `sensorTask`     | Priority: Normal, Stack: 256 words     | Periodically reads DHT11 + soil sensors and sends data to a queue.      |
 | Task      | `displayTask`    | Priority: BelowNormal, Stack: 512 words| Waits on queue, updates OLED display with sensor readings.              |
 | Queue     | `sensorDataQueue`| Size: 5 items, 8 bytes each            | Buffers data from `sensorTask` to `displayTask`.                        |
-| Mutex     | `i2cMutex`       | Type: Mutex                           | Prevents I2C contention between display and any other peripherals.       |
+| Mutex     | `i2cMutex`       | Type: Mutex                            | Prevents I2C contention between display and any other peripherals.      |
 
 ---
 
@@ -54,3 +53,4 @@ UART output is provided via Virtual COM (USART3) for serial debugging.
 ---
 
 📎 **Note:** This configuration is designed to be modular, thread-safe (via FreeRTOS), and optimized for real-time sensor logging and display with minimal resource usage.
+
