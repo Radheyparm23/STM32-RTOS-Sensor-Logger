@@ -56,3 +56,13 @@ The system architecture is designed around two main tasks:
   This task is **event-driven**. It waits for data to arrive in the message queue, and upon receiving it, it takes control of the I2C bus via a **mutex** to update the **OLED display** with the new information.
 
 This **decoupled design** ensures that the sensor reading and display updates operate independently, creating a **responsive and stable system**.
+
+---
+
+## 📁 System Configuration
+
+For detailed hardware pin mapping, FreeRTOS task design, CubeMX peripheral settings, and software module breakdown, refer to:
+
+👉 👉 [`System_Setup_Guide.md`](System_Setup_Guide.md)
+
+---
